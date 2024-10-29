@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sven Kubiak\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-12-12 18:09+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Sven Kubiak <mail@svenkubiak.de>\n"
+"Language-Team: Sven Kubiak <mail@svenkubiak.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: change-uploaded-file-permissions.php:86
+msgid "Upload file permissions"
+msgstr "Upload Dateirechte"
+
+#: change-uploaded-file-permissions.php:92
+msgid "Sorry, but you have no permissions to change settings."
+msgstr "Sorry, aber Du hast keine Berechtigungen um Einstellungen zu ändern."
+
+#: change-uploaded-file-permissions.php:96
+#: change-uploaded-file-permissions.php:107
+msgid "Settings have been successfully saved."
+msgstr "Einstellungen wurden erfolgreich gespeichert."
+
+#: change-uploaded-file-permissions.php:113
+msgid "Change Uploaded File Permissions Settings"
+msgstr "Upload Dateirechte Einstellungen"
+
+#: change-uploaded-file-permissions.php:114
+msgid "Path"
+msgstr "Pfad"
+
+#: change-uploaded-file-permissions.php:118
+msgid "Absolute path to WordPress-Root folder WITHOUT ending Slash"
+msgstr "Absoluter Pfad zum WordPress-Root Ordner OHNE abschliessenden Schraegstrich"
+
+#: change-uploaded-file-permissions.php:119
+msgid "i.e."
+msgstr "z.B."
+
+#: change-uploaded-file-permissions.php:126
+#: change-uploaded-file-permissions.php:129
+msgid "Path test"
+msgstr "Pfad-Test"
+
+#: change-uploaded-file-permissions.php:126
+msgid "The upload folder has been successfully found!"
+msgstr "Der Uploadordner wurde erfolgreich gefunden!"
+
+#: change-uploaded-file-permissions.php:129
+msgid "Error"
+msgstr "Fehler"
+
+#: change-uploaded-file-permissions.php:129
+msgid "The folder wp-content/uploads was not found!"
+msgstr "Der Ordner wp-content/uploads wurde nicht gefunden!"
+
+#: change-uploaded-file-permissions.php:138
+#: change-uploaded-file-permissions.php:161
+msgid "Save"
+msgstr "Speichern"
+
+#: change-uploaded-file-permissions.php:148
+msgid "Logging"
+msgstr "Logging"
+
+#: change-uploaded-file-permissions.php:152
+msgid "Log, which files have been changed."
+msgstr "Protokollieren, welche Dateien geandert werden."
+
+#: change-uploaded-file-permissions.php:154
+msgid "Yes"
+msgstr "Ja"
+
+#: change-uploaded-file-permissions.php:154
+msgid "No"
+msgstr "Nein"
+
+#: change-uploaded-file-permissions.php:154
+msgid "NOTE: Upon deactivation all log entries will be deleted."
+msgstr "ACHTUNG: Beim Deaktivieren werden alle Log-Eintraege geloescht."
+
+#: change-uploaded-file-permissions.php:214
+msgid "Filepermissions have been changed succsesfully"
+msgstr "Dateirechte wurden erfolgreich geaendert"
+
+#: change-uploaded-file-permissions.php:217
+msgid "Failed to change filepermissions"
+msgstr "&Auml;ndern der Dateirechte fehlgeschlagen"
+
+#: change-uploaded-file-permissions.php:221
+msgid "File does not exist or is a folder"
+msgstr "Datei exisitiert nicht oder ist ein Verzeichnis"
+
+#: change-uploaded-file-permissions.php:238
+msgid "Filename"
+msgstr "Dateiname"
+
+#: change-uploaded-file-permissions.php:239
+msgid "Date"
+msgstr "Datum"
+
+#: change-uploaded-file-permissions.php:240
+msgid "Log"
+msgstr "Log"
+
+#: change-uploaded-file-permissions.php:254
+msgid "No log yet."
+msgstr "Keine Eintraege vorhanden."
+
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
+#~ msgid "e.g."
+#~ msgstr "z.B."
+
+#, fuzzy
+#~ msgid "Changing filepermissions failed"
+#~ msgstr "Aendern der Dateirechte fehlgeschlagen"
+
